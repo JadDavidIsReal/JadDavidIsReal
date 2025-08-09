@@ -21,7 +21,9 @@
 ### ⚡ Lab Experiments
 
 <div style="background:#0d1117; padding:15px; border-radius:12px; display:flex; gap:20px; justify-content:center; flex-wrap:wrap;">
+  
   <img src="https://img.shields.io/badge/Novera-Voice_Assistant-00FFFF?style=flat" title="Modular Voice-Activated Assistant Interface" alt="Novera" />
+  
   <img src="https://img.shields.io/badge/Chartbot-Automation-FF00FF?style=flat" title="Conversational automation for smarter workflows" alt="Chartbot" />
 </div>
 
@@ -29,6 +31,8 @@
 
 ### 📞 Get in Touch
 [![Discord](https://img.shields.io/badge/Discord-chart.reuse-7289DA?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/YOUR_DISCORD_ID)  
+
+
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=flat&logo=paypal&logoColor=black)](https://paypal.me/chartreusee)
 
 ---
