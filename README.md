@@ -12,15 +12,75 @@
 
 ### Skill Snapshot
 *(Minimalist. Efficient. Straight to the point.)*  
-`Frontend Dev` • `Automation` • `Data Visualization` • `Tech Assistance`  
-`React` • `Laravel` • `Tailwind CSS` • `Google Workspace` • `Power BI`  
+![Frontend Dev](https://img.shields.io/badge/Frontend_Dev-3178C6?style=flat&logo=javascript&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-00BFFF?style=flat&logo=zapier&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-FBBD00?style=flat&logo=powerbi&logoColor=white)
+![Tech Assistance](https://img.shields.io/badge/Tech_Assistance-333333?style=flat&logo=helpdesk&logoColor=white)  
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat&logo=google&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=white)  
 
 ---
 
 ### Get in Touch
-Knock on the lab door → **`chart.reuse`** *(Discord)*  
-☕ [Buy me a coffee](https://paypal.me/chartreuse) — keeps the code flowing.
+[![Discord](https://img.shields.io/badge/Discord-chart.reuse-7289DA?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/# Hi, I’m Chartreuse
+
+> **“I deliver results.”**
 
 ---
 
-![Chartreuse's GitHub stats](https://github-readme-stats.vercel.app/api?username=JadDavidIsReal&show_icons=true&theme=tokyonight)
+### Current Experiments
+- **Novera** → Modular Voice-Activated Assistant Interface  
+- **Chartbot** → Conversational automation for smarter workflows
+
+---
+
+### Skill Snapshot
+*(Minimalist. Efficient. Straight to the point.)*  
+![Frontend Dev](https://img.shields.io/badge/Frontend_Dev-3178C6?style=flat&logo=javascript&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-00BFFF?style=flat&logo=zapier&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-FBBD00?style=flat&logo=powerbi&logoColor=white)
+![Tech Assistance](https://img.shields.io/badge/Tech_Assistance-333333?style=flat&logo=helpdesk&logoColor=white)  
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat&logo=google&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=white)  
+
+---
+
+### Get in Touch
+[![Discord](https://img.shields.io/badge/Discord-chart.reuse-7289DA?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/401255157196652555)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://paypal.me/chartreusee)
+
+---
+
+### Lab Experiments
+| Project  | Status | Focus Area |
+|----------|--------|------------|
+| Novera   | 🟡 In Progress | Voice-Activated Interface |
+| Chartbot | 🟢 Active | Workflow Automation |
+
+---
+
+![Chartreuse's GitHub stats](https://github-readme-stats.vercel.app/api?username=JadDavidIsReal&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JadDavidIsReal&layout=compact&theme=tokyonight)
+![Profile Views](https://komarev.com/ghpvc/?username=JadDavidIsReal&color=blue)
+)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://paypal.me/chartreusee)
+
+---
+
+### Lab Experiments
+| Project  | Status | Focus Area |
+|----------|--------|------------|
+| Novera   | 🟡 In Progress | Voice-Activated Interface |
+| Chartbot | 🟢 Active | Workflow Automation |
+
+---
+
+![Chartreuse's GitHub stats](https://github-readme-stats.vercel.app/api?username=JadDavidIsReal&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JadDavidIsReal&layout=compact&theme=tokyonight)
+![Profile Views](https://komarev.com/ghpvc/?username=JadDavidIsReal&color=blue)
