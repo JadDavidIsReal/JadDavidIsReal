@@ -5,6 +5,7 @@
 ---
 
 ### 🛠 Skill Snapshot
+
 <div style="background:#0d1117; padding:12px; border-radius:10px; display:flex; flex-wrap:wrap; gap:8px; justify-content:center;">
   <img src="https://img.shields.io/badge/Frontend_Dev-3178C6?style=flat&logo=javascript&logoColor=white" alt="Frontend Dev" />
   <img src="https://img.shields.io/badge/Automation-00BFFF?style=flat&logo=zapier&logoColor=white" alt="Automation" />
@@ -20,6 +21,7 @@
 
 ### ⚡ Lab Experiments
 
+
 <div style="background:#0d1117; padding:15px; border-radius:12px; display:flex; gap:20px; justify-content:center; flex-wrap:wrap;">
   
   <img src="https://img.shields.io/badge/Novera-Voice_Assistant-00FFFF?style=flat" title="Modular Voice-Activated Assistant Interface" alt="Novera" />
@@ -30,6 +32,7 @@
 ---
 
 ### 📞 Get in Touch
+
 [![Discord](https://img.shields.io/badge/Discord-chart.reuse-7289DA?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/YOUR_DISCORD_ID)  
 
 
@@ -38,6 +41,7 @@
 ---
 
 ### 📊 GitHub Stats & Activity
+
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=JadDavidIsReal&theme=tokyonight)  
 
