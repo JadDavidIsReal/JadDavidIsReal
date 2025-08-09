@@ -69,7 +69,7 @@
 ---
 
 ### 🐍 Watch Me Code
-![Snake animation](https://raw.githubusercontent.com/JadDavidIsReal/JadDavidIsReal/output/github-contribution-grid-snake.svg)
+![Commit Activity](https://github-readme-activity-graph.cyclic.app/graph?username=JadDavidIsReal&theme=github)
 
 ---
 
