@@ -1,4 +1,4 @@
-# Hi, I’m Chartreuse
+# Name's Chartreuse
 
 > **“I deliver results.”**
 
