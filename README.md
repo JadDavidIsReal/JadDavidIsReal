@@ -34,7 +34,7 @@ Latest Project (WIP): https://jaddavidisreal.github.io/NOVERA-v1
 
 ### 📞 Get in Touch
 
-[![Discord](https://img.shields.io/badge/Discord-chart.reuse-7289DA?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/YOUR_DISCORD_ID)  
+[![Discord](https://img.shields.io/badge/Discord-chart.reuse-7289DA?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/401255157196652555)  
 
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=flat&logo=paypal&logoColor=black)](https://paypal.me/chartreusee)
