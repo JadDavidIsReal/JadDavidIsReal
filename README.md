@@ -1,7 +1,7 @@
 # Hi, I’m Chartreuse
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=64FFDA&width=500&lines=I+deliver+results.;Minimalist.+Efficient.+To+the+point.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=64FFDA&width=500&lines=I+deliver+results.;Results+I+Do+Deliver.)
 
 ---
 
