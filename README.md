@@ -5,7 +5,7 @@
 
 ---
 
-### 🛠 Skill Snapshot
+### Skill Snapshot
 
 <div style="background:#0d1117; padding:12px; border-radius:10px; display:flex; flex-wrap:wrap; gap:8px; justify-content:center;">
   <img src="https://img.shields.io/badge/Frontend_Dev-3178C6?style=flat&logo=javascript&logoColor=white" alt="Frontend Dev" />
@@ -20,7 +20,7 @@
 
 ---
 
-### ⚡ Lab Experiments
+### Lab Experiments
 
 
 <div style="background:#0d1117; padding:15px; border-radius:12px; display:flex; gap:20px; justify-content:center; flex-wrap:wrap;">
@@ -32,7 +32,7 @@
 
 ---
 
-### 📞 Get in Touch
+### Get in Touch
 
 [![Discord](https://img.shields.io/badge/Discord-chart.reuse-7289DA?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/401255157196652555)  
 
