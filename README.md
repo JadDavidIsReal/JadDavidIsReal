@@ -1,4 +1,4 @@
-# Hi, I’m Chartreuse
+# Hi, I’m Chart
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=64FFDA&width=500&lines=I+deliver+results.;Results+I+Do+Deliver.)
 
