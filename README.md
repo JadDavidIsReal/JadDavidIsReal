@@ -43,11 +43,11 @@
 ### 📊 GitHub Stats & Activity
 
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=JadDavidIsReal&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=jadisreal&theme=tokyonight)  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JadDavidIsReal&show_icons=true&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jadisreal&show_icons=true&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JadDavidIsReal&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadisreal&layout=compact&theme=tokyonight)
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=JadDavidIsReal&color=00FF88&style=flat&label=Views)
+![Profile Views](https://komarev.com/ghpvc/?username=jadisreal&color=00FF88&style=flat&label=Views)
