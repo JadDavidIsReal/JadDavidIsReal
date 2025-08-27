@@ -7,7 +7,7 @@
 ### Skill Snapshot
 
 <div style="background:#0d1117; padding:12px; border-radius:10px; display:flex; flex-wrap:wrap; gap:8px; justify-content:center;">
-  <img src="https://img.shields.io/badge/Frontend_Dev-3178C6?style=flat&logo=javascript&logoColor=white" alt="Frontend Dev" />
+  <img src="https://img.shields.io/badge/Frontend-3178C6?style=flat&logo=javascript&logoColor=white" alt="Frontend" />
   <img src="https://img.shields.io/badge/Automation-00BFFF?style=flat&logo=zapier&logoColor=white" alt="Automation" />
   <img src="https://img.shields.io/badge/Data_Visualization-FBBD00?style=flat&logo=powerbi&logoColor=white" alt="Data Visualization" />
   <img src="https://img.shields.io/badge/Tech_Assistance-333333?style=flat&logo=helpdesk&logoColor=white" alt="Tech Assistance" />
