@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=64FFDA&width=500&lines=I+deliver+results.;Results+I+Do+Deliver.)
 
----
+*************************************************************************************
 
 ### Skill Snapshot
 
@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=white" alt="Power BI" />
 </div>
 
----
+*************************************************************************************
 
 ### Lab Experiments
 
@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Chartbot-Automation-FF00FF?style=flat" title="Conversational automation for smarter workflows" alt="Chartbot" />
 </div>
 
----
+*************************************************************************************
 
 ### Get in Touch
 
@@ -38,7 +38,7 @@
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=flat&logo=paypal&logoColor=black)](https://paypal.me/chartreusee)
 
----
+*************************************************************************************
 
 ### 📊 GitHub Stats & Activity
 
