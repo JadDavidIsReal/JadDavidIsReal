@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/badge/Data_Visualization-FBBD00?style=flat&logo=powerbi&logoColor=white" alt="Data Visualization" />
   <img src="https://img.shields.io/badge/Tech_Assistance-333333?style=flat&logo=helpdesk&logoColor=white" alt="Tech Assistance" />
 
-  
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=flat&logo=google&logoColor=white" alt="Google Workspace" />
